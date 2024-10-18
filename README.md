@@ -1,2 +1,2 @@
 # Beginner-Level-Projects-using-HTML-CSS-JavaScript
-These projects will build your logic building and demonstrate your skills to the next level. Start your development journey with these amazing projects
+These projects will enhance your logical skills and showcase your abilities at a higher level. Begin your development journey with these exciting projects.
